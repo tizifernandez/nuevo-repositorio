@@ -1,2 +1,2 @@
 # nuevo-repositorio
-Este es un repositorio remoto 
+Estoy aprendiendo Pull Requests
